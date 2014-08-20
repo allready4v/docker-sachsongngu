@@ -1,4 +1,4 @@
-FROM kevinvn/lamp:latest
+FROM tutum/lamp:latest
 MAINTAINER Kevin Seta <kien6336@setacinq.com.vn>
 
 # Download latest version of Setaweb into /app
