@@ -19,7 +19,7 @@ mysql -uroot -e "GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION"
 
 sleep 5
 
-DATABASE_NAME="setawebsite"
+DATABASE_NAME="sachsongngu"
 DB_PATH_SQL="/db_product.sql"
 
 if ! mysql -uroot -e "use $DATABASE_NAME"; then
