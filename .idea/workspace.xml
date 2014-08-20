@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dockerfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Dockerfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="26" selection-start="593" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+            <state line="7" column="33" selection-start="289" selection-end="289" vertical-scroll-proportion="0.27450982" vertical-offset="0" max-vertical-offset="594">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sachsongngu/application/config/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="38" selection-start="3486" selection-end="3486" vertical-scroll-proportion="0.21194606" vertical-offset="1584" max-vertical-offset="3806">
+            <state line="80" column="38" selection-start="3486" selection-end="3486" vertical-scroll-proportion="-3.7931035" vertical-offset="1584" max-vertical-offset="3806">
               <folding />
             </state>
           </provider>
@@ -51,8 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/../sachsongngu/application/config/main.php" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -168,16 +168,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/../sachsongngu/application/config/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="26" selection-start="593" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+        <state line="80" column="38" selection-start="3486" selection-end="3486" vertical-scroll-proportion="-3.7931035" vertical-offset="1584" max-vertical-offset="3806">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sachsongngu/application/config/main.php">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="38" selection-start="3486" selection-end="3486" vertical-scroll-proportion="0.21194606" vertical-offset="1584" max-vertical-offset="3806">
+        <state line="7" column="33" selection-start="289" selection-end="289" vertical-scroll-proportion="0.27450982" vertical-offset="0" max-vertical-offset="594">
           <folding />
         </state>
       </provider>
