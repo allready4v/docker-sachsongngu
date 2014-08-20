@@ -14,6 +14,10 @@ RUN chmod 777 /db_product.sql
 ADD create_mysql_admin_user.sh /create_mysql_admin_user.sh
 RUN chmod 755 /*.sh
 
+#chmod
+RUN chmod 777 /app/assets
+RUN chmod 777 /app/application/runtime
+
 ENV MYSQL_PASS setawebsite
 
 EXPOSE 80 3306

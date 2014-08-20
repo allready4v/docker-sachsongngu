@@ -26,7 +26,7 @@
       <file leaf-file-name="Dockerfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="33" selection-start="289" selection-end="289" vertical-scroll-proportion="0.27450982" vertical-offset="0" max-vertical-offset="594">
+            <state line="18" column="38" selection-start="571" selection-end="571" vertical-scroll-proportion="0.7058824" vertical-offset="0" max-vertical-offset="682">
               <folding />
             </state>
           </provider>
@@ -177,7 +177,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="289" selection-end="289" vertical-scroll-proportion="0.27450982" vertical-offset="0" max-vertical-offset="594">
+        <state line="18" column="38" selection-start="571" selection-end="571" vertical-scroll-proportion="0.7058824" vertical-offset="0" max-vertical-offset="682">
           <folding />
         </state>
       </provider>
