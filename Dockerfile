@@ -18,7 +18,7 @@ RUN chmod 755 /*.sh
 RUN chmod 777 /app/assets
 RUN chmod 777 /app/application/runtime
 
-ENV MYSQL_PASS setawebsite
+ENV MYSQL_PASS matkhau
 
 EXPOSE 80 3306
 CMD ["/run.sh"]
